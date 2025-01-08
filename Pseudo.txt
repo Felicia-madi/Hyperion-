@@ -1,0 +1,28 @@
+Pseudo
+
+1. Request input from user
+   User Input numbers greater or equals to 0
+  Print highest number
+   
+
+2. Request input from user
+   store input into variable "first name"
+   If user input is equals to "first name" 
+  Print "first name"plus "hello world"
+
+3. Read random choice of numbers
+   Print out the average number
+
+4.Read list of products
+ Sort out products in alphabetical order
+ if item bought remove from list
+ print out items not bought
+
+5. Read x and y if 
+ S equals X plus Y
+ A equals S divided by 2
+ P equals X multiplied by Y
+ Output total S,A,P
+
+
+
